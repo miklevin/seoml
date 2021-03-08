@@ -2,9 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"hello": "00_core.ipynb",
+index = {"is_jupyter": "00_core.ipynb",
          "logger": "00_core.ipynb",
-         "is_jupyter": "00_core.ipynb"}
+         "fig": "00_core.ipynb",
+         "jn": "00_core.ipynb",
+         "parser": "00_core.ipynb",
+         "add_arg": "00_core.ipynb"}
 
 modules = ["core.py"]
 
